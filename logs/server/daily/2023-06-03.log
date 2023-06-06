@@ -1,0 +1,346 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:13:21.071Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:13:25.031Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:14:22.831Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:14:26.901Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:14:33.350Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:15:35.431Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:15:46.350Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:15:50.384Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:15:54.345Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:16:49.428Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:16:56.684Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:17:08.333Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:17:14.929Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:17:18.551Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:17:32.137Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:17:35.399Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:18:21.158Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-06-03T06:18:21.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:18:44.813Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-06-03T06:18:44.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:22:53.211Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:02.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:06.065Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:23:09.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:16.796Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:23:20.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:29.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:35.631Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:42.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:46.033Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:23:49.535Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:23:52.338Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:23:55.853Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userProfile is not defined
+    at D:\MyDemoProject\src\routes\/user.route.js:14:47
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:69:12
+    at pass (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:334:31)
+    at cb (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:346:7)
+    at D:\MyDemoProject\src\/index.js:80:3
+    at pass (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:354:9)
+    at Authenticator.deserializeUser (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:359:5)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:61:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at initialize (D:\MyDemoProject\node_modules\passport\lib\middleware\initialize.js:98:5)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate.<anonymous> (D:\MyDemoProject\node_modules\express-session\index.js:506:7)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/users/success 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T06:24:07.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:24:32.110Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:24:37.868Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:24:44.030Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:25:07.414Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:25:13.864Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T06:25:18.616Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T06:25:22.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:46:13.652Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-06-03T16:46:13.661Z"}
+error: 
+    status - 500 
+    message - Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+    at SessionManager.logIn (D:\MyDemoProject\node_modules\passport\lib\sessionmanager.js:21:33)
+    at IncomingMessage.req.login.req.logIn (D:\MyDemoProject\node_modules\passport\lib\http\request.js:39:26)
+    at Strategy.strategy.success (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:256:13)
+    at done (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:189:20)
+    at Strategy._verify (D:\MyDemoProject\src\routes\/user.route.js:73:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:205:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPZIJlS3EwxZl9Hmp6QFMJXu39PfAEWjokAoWt80pTWf1UFwnLpgijp7rc1Gh0l0Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T16:46:59.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:49:41.731Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:49:45.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:50:17.101Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:50:20.173Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:50:59.175Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:51:05.154Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:51:09.550Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:51:12.042Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:51:16.136Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:51:26.907Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:51:35.469Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:55:31.895Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:55:38.970Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userProfile is not defined
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:15:48)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:13:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:69:12
+    at pass (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:334:31)
+    at cb (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:346:7)
+    at D:\MyDemoProject\src\/index.js:86:3
+    at pass (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:354:9)
+    at Authenticator.deserializeUser (D:\MyDemoProject\node_modules\passport\lib\authenticator.js:359:5)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:61:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at initialize (D:\MyDemoProject\node_modules\passport\lib\middleware\initialize.js:98:5)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express-session\index.js:506:7)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /success 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T16:55:49.314Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:56:16.927Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T16:56:21.846Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T16:56:25.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:02:10.075Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:02:10.101Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-03T17:04:25.407Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:11:44.246Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:11:44.266Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:15:47.482Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:15:47.508Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ value: 'bbelagavi6@gmail.com', verified: true }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /success 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T17:16:47.499Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ value: 'bbelagavi6@gmail.com', verified: true }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /success 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T17:17:17.254Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'emails')
+    at _callee$ (D:\MyDemoProject\src\services\/user.service.js:6:41)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (D:\MyDemoProject\src\services\/user.service.js:4:25)
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:15:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:13:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at initialize (D:\MyDemoProject\node_modules\passport\lib\middleware\initialize.js:98:5)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T17:17:37.995Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:17:53.766Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:17:53.786Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (D:\MyDemoProject\src\services\/user.service.js:6:41)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (D:\MyDemoProject\src\services\/user.service.js:4:25)
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:15:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:13:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at initialize (D:\MyDemoProject\node_modules\passport\lib\middleware\initialize.js:98:5)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-03T17:17:56.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:18:24.302Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:18:24.325Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:19:06.533Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:19:06.553Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:19:11.525Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:19:11.546Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-03T17:19:23.691Z"}
+info: Connected to the database. {"timestamp":"2023-06-03T17:19:23.713Z"}

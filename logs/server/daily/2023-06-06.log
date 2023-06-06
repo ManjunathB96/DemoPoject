@@ -1,0 +1,749 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:30:02.003Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:30:02.025Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:30:28.835Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:30:28.857Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:30:33.077Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:30:33.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:07.420Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:07.442Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:17.781Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:17.797Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:23.917Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:23.933Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:28.325Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:28.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:33.066Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:33.082Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:31:37.931Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:31:37.949Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOcFdIOVcNEsTjZ9fCmyBLGhK1ZWDsSC0c-qhIbMLR6SB7PKcMwhP97lcDpMaXyqA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:32:12.668Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMltao6EqpSLh25mXivZp2kT3YBg7MolHKL4ib59o_tqfbYjZGAyrqjz9bRGqFkFQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:32:20.845Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:33:25.441Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:33:57.419Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:34:10.982Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:34:11.002Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VO5LqXePRSY-DCM10Ant7EpTdcGayk7fRr0lrT-X60rKz92I5UrbUvBxbFuEE8zfw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:34:51.274Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:35:35.074Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:35:35.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:35:38.091Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:35:38.113Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:36:22.493Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:36:22.514Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:36:31.983Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:36:32.004Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMM2tUuGVunf2EUuR6ovO58cfHcLFWt1QNHNkBpsW3HpTWlc_kCuzQisf396mwK8A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:36:59.288Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:42:20.974Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:42:20.997Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNl3NCa461EZa4he0Bv8ZgL404cd9zIWCa2VMUYEYWbZXYQXqiYAOIQ8swS9b8tQw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:43:02.198Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOUlgf4TA89Oaf6qL4x1kL5iQhf35ex2wPUcOZqUQd-uvQLGYP9oCRVqAsmkje4GQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:43:11.600Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNgVkoIGjo1SuNT_zYRi1eZSNYtAvH8BLGT_U4wkpJVk13AskCaAPD3E4i2412biQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:44:28.762Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:46:06.914Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:46:06.939Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:19:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPfyEiUnf7Uw_RDea9XdCpy9LIS0SzwpwZ5rhxDqRVES_EkFt1u-0vIj-tmIyLgzQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:46:42.377Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:47:07.509Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:47:07.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:47:20.523Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:47:20.542Z"}
+error: 
+    status - 500 
+    message - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:373:12)
+    at Strategy.OAuth2Strategy._createOAuthError (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:420:16)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:177:45
+    at D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPfyEiUnf7Uw_RDea9XdCpy9LIS0SzwpwZ5rhxDqRVES_EkFt1u-0vIj-tmIyLgzQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:47:34.987Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VN2xtsfcP2rL8zVhx5yLzVqh0Z5ctwXuVMe2Vf5kmnAzabTgY8hHV8JeD10GBQxxA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:48:02.233Z"}
+error: 
+    status - 500 
+    message - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:373:12)
+    at Strategy.OAuth2Strategy._createOAuthError (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:420:16)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:177:45
+    at D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VN2xtsfcP2rL8zVhx5yLzVqh0Z5ctwXuVMe2Vf5kmnAzabTgY8hHV8JeD10GBQxxA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:48:07.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:49:47.267Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:49:47.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:49:55.564Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:49:55.584Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:50:11.494Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:50:11.515Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:50:14.967Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:50:14.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:50:19.099Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:50:19.118Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:12)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VN4t-s4VgXzSMGRVaEJ1pvdd3IKOdDqO7vB_ep5dvAHH_4kQrQypK0Xu4uIX71Zxw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:51:32.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:51:54.855Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:51:54.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:55:33.820Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:55:33.837Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:55:53.818Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:55:53.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:55:59.579Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:55:59.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:08.452Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:08.472Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:15.685Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:15.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:19.814Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:19.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:27.546Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:27.565Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:31.471Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:31.489Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:43.115Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:43.136Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:45.917Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:45.934Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:56:50.397Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:56:50.414Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:57:04.008Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:57:04.028Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:57:09.956Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:57:09.975Z"}
+error: 
+    status - 500 
+    message - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:373:12)
+    at Strategy.OAuth2Strategy._createOAuthError (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:420:16)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:177:45
+    at D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPUBJ0Q4EytY5HErmOphScrFDrW0yA2kV_41yn4FpFApTey4Nd4tWXoiGaXgyNsFg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T18:57:23.435Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:57:47.914Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:57:47.933Z"}
+error: 
+    status - 500 
+    message - TokenError: Bad Request
+    at Strategy.OAuth2Strategy.parseErrorResponse (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:373:12)
+    at Strategy.OAuth2Strategy._createOAuthError (D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:420:16)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:177:45
+    at D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:191:18
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:132:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMZdB4iFfpCcAE6V8SpKIAOj-WBK29BEJkERfuCUWOjtA0mE5KO4D0CF4MnvGxhbg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2023-06-05T18:57:49.197Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:57:51.759Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:57:51.780Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T18:58:07.431Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T18:58:07.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:00:37.738Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:00:37.756Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:21:6)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VO6KORR-36FEPT7rMk6fG1xzkYLw6dLgooLo3Ac6L1ONgYV-yhOQ5tFEYl4hFNvWQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T19:01:03.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:02:14.393Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:02:14.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:02:31.232Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:02:31.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:02:43.203Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:02:43.223Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:61:13)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VM8f8iCypDb3Xm0Y4jqOSb9fTZ3ZvZYmLCesVKuczHG5l3n1cciGrFB0kTVrzYa7Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T19:02:58.633Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:61:13)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOAM2sKvvWUoSEO7sla1ntH5d9KEfN_Ptodwmh5rHMRaOVjzDLLJXlQiIpAil1uKg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T19:03:05.197Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:03:31.765Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:03:31.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:05:08.904Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:05:08.920Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:05:35.016Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:05:35.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:05:42.919Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:05:42.935Z"}
+error: 
+    status - 500 
+    message - TypeError: done is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:23:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMXal1OtFipa625GZw9-420hDOSQb9DamZ1DShXXe4v0QXMumA-_1djtWYc1odoJw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T19:06:06.734Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:06:52.208Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:06:52.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-05T19:06:59.247Z"}
+info: Connected to the database. {"timestamp":"2023-06-05T19:06:59.265Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:23:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOGLMZUDEpeelWJvhk8DCgkcXqrashK-VTro48eT9pF17zVoAs7GQ9qy4TkxK5-Eg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-05T19:07:16.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:37:20.006Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:37:20.026Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:23:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNZ90s42KcWhNUmiB96ShA0KbneOR2JjCUJlFu0cUZzW1uyEnsY9YqgBIt65IKpqw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:37:57.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:44:08.727Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:44:08.745Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:44:18.701Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:44:18.721Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:23:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOpv8INVf2XwXs0p7Flu_3cX7DzZFcQmaux8HLLSWyq9Jidum96zkS08_Qm4RzbGg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:44:35.885Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:23:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOojpVS8ki5KlBgBIGHL-eDHRWLEBACXLRkyK9tleJ11U5p_tBTOMY3Z0isq1DOxA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:44:43.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:45:02.345Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:45:02.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:45:21.881Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:45:21.904Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:45:36.746Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:45:36.775Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:64:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VOHDaAdmy9qH5h7B-I5hrr91Rr5h2zOxVExaATcJUTH5Yx4I_uVSrV6_zDQdHH-BQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:45:52.895Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:64:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNE3yf97RQLaqmM763HSAlkhLSdXC_SFpyIn-Rm9cQCB5UZ8JPZEoX2xpQIcb2ahQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:45:58.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:47:04.979Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:47:05.003Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:47:23.123Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:47:23.141Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:47:38.348Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:47:38.376Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:64:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPR0_N4Cqf031ympBOMBvgff3AC53hd8_5yU8FV8mT1jdI-iTzumPU-mJpKa3VS_g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:47:58.976Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:50:47.201Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:50:47.221Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\/index.js:64:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPg1ltYBgbvVxaG8jDk1Zs6hHHonYV_TJ_bcjsxa8mEA8RvcyAeWPixmpSuMG1NVQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:51:04.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:52:22.336Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:52:22.355Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:55:45.177Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:55:45.197Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:55:56.589Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:55:56.613Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:56:02.753Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:56:02.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:56:30.578Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:56:30.606Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:56:35.714Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:56:35.736Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPZhcwR9nocL2HVWJwqyIWorQCzVFbwfY6qJYaODtNzbDj475-DPkRA30bPOvBN3Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:57:14.512Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:57:41.939Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:58:28.899Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:58:35.592Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:58:35.614Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:58:38.673Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:58:38.696Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:58:42.986Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:58:48.491Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:58:48.510Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPpleGtESb9lyicp4kwHTHULQvqnyxEgEU2UuGAKsioBAGNw3HQEJOb3XIJ1AU63A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:59:04.424Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:59:21.197Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:59:21.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:59:26.315Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:59:26.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T02:59:29.091Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T02:59:29.114Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNryl28vlmN6k3Zc0x5OCaq4QHErrjkEMA8eVAtwuK5pelJ1RO7auPsqqLcWCyl6Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T02:59:43.226Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:00:50.300Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:00:50.355Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:01:01.150Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:01:01.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:01:05.487Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:01:05.508Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:01:11.020Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:01:11.040Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:20:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPDyyy1oJv7BeUpHNBLZkOY68fogfpmqTPuCoaqQOvjvYYvU6RkAWQHdTm7OGz5CQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T03:01:39.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:03:33.962Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:03:33.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:03:39.993Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:03:40.013Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:29:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMqpHAufBWCe3WZjGS6MMZTO36Td7Y983uZN7F_N4CG2ejfoXP1uQWYEraOxrAdBA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T03:03:49.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:05:07.425Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:05:07.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:05:15.068Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:05:15.088Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:31:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNowNfKDf3byAamEJyrWmiUO-mVwIjCaFXDlNVzZuLiNwiaDD-J2fz-dxxRA78nnw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T03:05:30.236Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:06:44.492Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:06:44.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:06:49.599Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:06:49.618Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:35:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VM-Vz6Lu31neg4JgRAhdp62k08KkC63qP4vGmUc1135r2w9pe9Fg0Hs2PrTa3uxJg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T03:07:00.322Z"}
+error: 
+    status - 500 
+    message - TypeError: callback is not a function
+    at Strategy._verify (D:\MyDemoProject\src\utils\/passport.js:35:14)
+    at D:\MyDemoProject\node_modules\passport-oauth2\lib\strategy.js:198:24
+    at D:\MyDemoProject\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+    at passBackControl (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (D:\MyDemoProject\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMffpb64mxYidupH1J6IdZhEUER40rp8tqt1hEfBMMiyRdaau1QjOHPjTaQJBlrXA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-06T03:07:07.989Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:08:23.324Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:08:23.349Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:11:14.245Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:11:14.268Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:31:47.481Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:31:47.505Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:31:59.958Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:31:59.986Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:41:55.219Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:41:55.239Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:43:19.289Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:43:28.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:43:32.945Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:43:32.966Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:43:37.308Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:43:37.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:54:57.717Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:54:57.737Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:55:50.708Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:55:50.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:56:46.869Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:56:46.888Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:56:55.849Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:56:55.871Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:57:05.185Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:57:05.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:57:11.144Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:57:11.171Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T03:57:14.839Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T03:57:14.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-06T04:00:02.156Z"}
+info: Connected to the database. {"timestamp":"2023-06-06T04:00:02.172Z"}

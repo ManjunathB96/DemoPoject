@@ -1,0 +1,114 @@
+info: ::1 - - [03/Jun/2023:06:13:34 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:13:35 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VOu4OYilxOuQKmv8cx1fHAUq43fBmnkx8BpS35qHHWeS1oV_E3cX3UC08cDPt2IHQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:13:35 +0000] "GET /success HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:13:35 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:16:07 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:16:09 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VN_dW4zCVVu6k3kj7UhZtomPY4YA7KcQkmt6WLD578JEWfhLhZmigUBL8oSqbuVCA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:16:09 +0000] "GET /success HTTP/1.1" 200 187 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:19:43 +0000] "GET /api/v1/users/auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:19:45 +0000] "GET /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPc27TZPy_C3Miu3QmddSiW4lrpFIKwiy8vY9LFNfaRY4LtDBFyW1u8LHw8EOMulw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:19:45 +0000] "GET /success HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:21:51 +0000] "GET /api/v1/users/auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:21:53 +0000] "GET /api/v1/users/auth/google/callback?code=4%2F0AbUR2VNwmU1nQv6M60dNMG9MfngViUfYWHHC-RABh0brHHMfPbn506JHAQpYZ3S4EEPqRw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:21:53 +0000] "GET /success HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:24:06 +0000] "GET /api/v1/users/auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:24:07 +0000] "GET /api/v1/users/auth/google/callback?code=4%2F0AbUR2VMrchPrWRkPrsXsFsAHQ6m4SCqOz--af3UgNCC6HrCXdOmyc7Jyx8jJ0mV-dENROg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 86 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:06:24:07 +0000] "GET /api/v1/users/success HTTP/1.1" 500 61 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:46:55 +0000] "GET /api/v1/users/auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:46:59 +0000] "GET /api/v1/users/auth/google/callback?code=4%2F0AbUR2VPZIJlS3EwxZl9Hmp6QFMJXu39PfAEWjokAoWt80pTWf1UFwnLpgijp7rc1Gh0l0Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 500 126 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:47:01 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:49:54 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:49:55 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VMKxk0n6kcwTnE97erMKAR0PoauULLBUyyUjS63TSijJ39Dq7UChpJlVm5q2-UmnQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:49:55 +0000] "GET /success HTTP/1.1" 200 187 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:55:47 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:55:49 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VM6pKaKVl9iUd-AL3Qz_Oua11x8yWst6qbwDuopB1WR_9AowPk3N2FpZ2-aaHzOBA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:55:49 +0000] "GET /success HTTP/1.1" 500 61 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:56:45 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:56:46 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VMRpD50Z8XqXYB06MGQ3GHiRA3iwFM3fMx5jUEMv7tcdu3PPfK7jXoSsNhhsO2xiw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:16:56:47 +0000] "GET /success HTTP/1.1" 200 19971 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:04:25 +0000] "POST /api/v1/users HTTP/1.1" 500 59 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:04:35 +0000] "POST /api/v1/users HTTP/1.1" 201 255 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:04:56 +0000] "POST /api/v1/users HTTP/1.1" 201 248 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:05:20 +0000] "POST /api/v1/users HTTP/1.1" 201 251 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:05:38 +0000] "POST /api/v1/users HTTP/1.1" 201 247 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:06:13 +0000] "POST /api/v1/users HTTP/1.1" 201 248 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:08:26 +0000] "POST /api/v1/users HTTP/1.1" 201 250 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:09:31 +0000] "POST /api/v1/users HTTP/1.1" 201 263 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:10:03 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:10:05 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VPm185gR1ZqLhubGLogr60V7Wx9rNeGsAK2Kk4poRBLnoWJQx-rpc0WiCyv33bC0w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:10:05 +0000] "GET /success HTTP/1.1" 200 1427 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:16:29 +0000] "POST /api/v1/users HTTP/1.1" 201 264 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:16:45 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:16:47 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VM2-nzJ2z89bNW5hzxjxfUxelaCh1WH6WjQoCIz-ocmANzXwhHGUwn4OUTaIGmddw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:16:47 +0000] "GET /success HTTP/1.1" 500 171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:17:15 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:17:16 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:17:17 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VP6dHl18luHo1GS83feMmh4tWmEHAxjrmKfpYzPDnJJEh7Nj5K9mwmY025s5j1_Mw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:17:17 +0000] "GET /success HTTP/1.1" 500 171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:17:38 +0000] "GET /api/v1/users HTTP/1.1" 500 89 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:17:56 +0000] "GET /api/v1/users HTTP/1.1" 500 88 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [03/Jun/2023:17:18:31 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:18:32 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:18:35 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VO_hPk8GbEw2d2S1AUzbTVHcVZZ8yp-mFJL2as0Kj_ly8hVhhwJVMizlrKUlanzUg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:18:35 +0000] "GET /success HTTP/1.1" 200 67 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:19:32 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:19:33 +0000] "GET /auth/google HTTP/1.1" 302 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:19:34 +0000] "GET /auth/google/callback?code=4%2F0AbUR2VNzf0fuWWKXpz3cciGyGjsIJ-aFgWcaSUnlN3AdbPgwxTJ9dw-0DyopRpX4GYyt-w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
+info: ::1 - - [03/Jun/2023:17:19:34 +0000] "GET /success HTTP/1.1" 200 1634 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+
