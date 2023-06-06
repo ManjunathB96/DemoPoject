@@ -1,15 +1,9 @@
 import User from '../models/user.model';
 
 //get all users
-export const getAllUsers = async (user) => {
-  console.log('Use deatils -------', user);
+export const getAllUsers = async () => {
   const data = await User.find();
-
-  let citydata = await fetch('https://goweather.herokuapp.com/weather/France');
-  const response = await citydata.json();
-  console.log("Output ===> getAllUsers ===> response:", response.forecast[0]);
-
-  return { ...data, ...response };
+  return data;
 };
 
 

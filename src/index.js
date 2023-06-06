@@ -28,6 +28,19 @@ app.use(morgan('combined', { stream: logStream }));
 
 database();
 
+//Express rate limit
+const ratelimit=require("express-rate-limit")
+const limiter=ratelimit({
+  Window:60*1000,
+  max:2,
+  message:"you are exceede two attempts limit"
+})
+
+ app.use(limiter)
+
+// app.get('/',limiter, (req, res) => {
+//   res.send('<a herf="/auth/google">Authentication with google </a>');
+// });
 
 //********************************** */
 const passport = require('passport');
