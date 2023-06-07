@@ -21,7 +21,14 @@ const port = process.env.APP_PORT || 3000;
 const api_version = process.env.API_VERSION;
 
 app.use(cors());
-app.use(helmet());
+app.use(
+  helmet({
+    xssFilter: {
+      setOnOldIE: true, // Enable for old versions of Internet Explorer
+      reportUri: '../logs/xssViolation/reportXssViolation.log' // Optional: Specify a reporting endpoint
+    }
+  })
+);
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(morgan('combined', { stream: logStream }));
@@ -29,23 +36,25 @@ app.use(morgan('combined', { stream: logStream }));
 database();
 
 //Express rate limit
-const ratelimit=require("express-rate-limit")
-const limiter=ratelimit({
-  Window:60*1000,
-  max:2,
-  message:"you are exceede two attempts limit"
-})
+//const ratelimit=require("express-rate-limit")
 
- app.use(limiter)
+import ratelimit from 'express-rate-limit';
+const requestIp = require('request-ip');
+const limiter = ratelimit({
+  Window: 15 * 60 * 1000,
+  max: 2,
+  message: 'Too many requests from this IP, please try again later.',
+  standardHeaders: true,
+  keyGenerator: (req) => {
+    return requestIp.getClientIp(req);
+  }
+});
+app.use(requestIp.mw());
+app.use(limiter);
 
-// app.get('/',limiter, (req, res) => {
-//   res.send('<a herf="/auth/google">Authentication with google </a>');
-// });
-
-//********************************** */
 const passport = require('passport');
 const session = require('express-session');
-//app.set('view engine', 'ejs');
+app.set('view engine', 'ejs');
 // app.use(session({
 //     resave: true,
 //     saveUninitialized: true,
@@ -53,12 +62,13 @@ const session = require('express-session');
 //   })
 // );
 
-app.use(session({secret: 'Tanu'}));
+app.use(session({ secret: 'Tanu' }));
 app.use(passport.initialize());
 app.use(passport.session());
 
+const requestCounter = require('./middlewares/request.middleware');
+app.use(requestCounter());
 
-/************************************************************************************* */
 app.use(`/api/${api_version}`, routes());
 app.use(appErrorHandler);
 app.use(genericErrorHandler);

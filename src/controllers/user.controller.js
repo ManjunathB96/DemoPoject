@@ -3,7 +3,6 @@ import * as UserService from '../services/user.service';
 import { userDetails } from '..';
 
 
-
 /**
  * Controller to get all users available
  * @param  {object} req - request object

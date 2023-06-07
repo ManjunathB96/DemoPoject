@@ -1,0 +1,409 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T01:50:17.892Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T01:50:17.939Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T01:52:11.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T01:53:59.397Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T01:53:59.422Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T01:55:54.983Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T01:55:55.000Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:04:01.059Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:04:01.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:07:50.894Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:07:50.919Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:08:10.541Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:08:10.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:08:17.531Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:08:17.549Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:08:32.961Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:08:32.989Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:08:40.404Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:08:40.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:15:15.930Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:15:15.962Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:18:38.855Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:18:44.953Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:18:44.972Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:18:48.021Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:18:48.059Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:21:22.310Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:21:22.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:21:26.833Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:21:26.850Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:23:39.814Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:23:39.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:24:07.990Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:08.013Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:18.423Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:24.492Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:24:29.258Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:29.290Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:24:34.627Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:34.645Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:38.787Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:24:44.206Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:44.224Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:24:50.634Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:24:50.659Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:14.340Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:26:17.501Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:17.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:26:23.890Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:23.909Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:26:27.563Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:27.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:26:30.928Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:30.945Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:26:34.921Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:26:34.943Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:27:17.577Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:27:17.605Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:27:21.520Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:27:21.554Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:27:26.353Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:27:26.372Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:27:33.848Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:27:33.865Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:27:49.300Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:27:49.328Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:28:10.976Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:28:10.993Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:28:14.707Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:28:26.840Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:28:26.861Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:28:54.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:29:05.742Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:29:05.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:29:08.137Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:29:08.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:29:11.930Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:29:18.776Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:29:18.796Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:29:46.387Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:29:46.442Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:16.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:30:25.765Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:25.792Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:30:29.045Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:29.070Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:30:45.017Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:45.046Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:49.236Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:30:55.801Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:30:55.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:31:00.519Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:31:00.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:32:29.922Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:32:29.943Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:34:49.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:34:53.963Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:34:53.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:36:07.357Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:36:07.380Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:36:20.942Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:36:20.961Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:37:11.046Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:37:11.088Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:39:33.097Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:39:33.141Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:39:36.255Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:39:36.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:40:47.560Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:40:47.594Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:40:53.535Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:40:53.554Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (D:\MyDemoProject\src\services\/user.service.js:12:10)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (D:\MyDemoProject\src\services\/user.service.js:4:25)
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:14:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:12:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users/getAll 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T02:42:57.972Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:43:29.455Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:43:29.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:43:36.064Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:43:36.082Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:43:40.399Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:43:40.423Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:08.739Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:08.758Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:25.228Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:25.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:37.524Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:37.543Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:44.851Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:44.871Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:48.392Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:48.410Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:44:58.797Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:44:58.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:45:05.696Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:45:05.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:45:12.898Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:45:12.917Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:45:20.513Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:45:20.531Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:45:44.225Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:45:44.241Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:39.282Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:39.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:42.224Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:42.245Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:45.973Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:46.022Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:50.091Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:50.108Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:54.057Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:54.075Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:46:58.075Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:46:58.100Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:47:03.064Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:47:03.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:47:06.550Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:47:06.571Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (D:\MyDemoProject\src\services\/user.service.js:26:10)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (D:\MyDemoProject\src\services\/user.service.js:4:25)
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:14:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:12:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users/getAll 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T02:47:37.321Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (D:\MyDemoProject\src\services\/user.service.js:26:10)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (D:\MyDemoProject\src\services\/user.service.js:4:25)
+    at _callee$ (D:\MyDemoProject\src\controllers\/user.controller.js:14:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (D:\MyDemoProject\src\controllers\/user.controller.js:12:25)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at SessionStrategy.strategy.pass (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (D:\MyDemoProject\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\MyDemoProject\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users/getAll 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T02:47:39.927Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:48:15.093Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:48:15.111Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:49:57.340Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:49:57.357Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:50:38.498Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:50:38.519Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:50:59.804Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:50:59.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:51:10.439Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:51:10.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:52:29.068Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:52:29.088Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:58:56.643Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:58:56.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:03.988Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:04.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:08.736Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:08.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:11.674Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:11.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:27.198Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:27.218Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:35.279Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:35.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T02:59:41.062Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T02:59:41.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:00:52.541Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:00:52.566Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:01:47.912Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:01:47.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:02:38.473Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:02:38.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:03:43.868Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:03:43.890Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:03:47.441Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:03:47.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:05:26.628Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:05:26.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:06:24.686Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:06:24.711Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:06:29.705Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:06:29.723Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:06:37.833Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:06:37.851Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:11:14.960Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:11:14.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:11:19.471Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:11:19.490Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:11:24.234Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:11:24.253Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:11:32.687Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:11:32.708Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:11:49.896Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:11:49.916Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:12:34.709Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:12:34.727Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:14:06.878Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:14:06.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:15:23.219Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:15:23.237Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:21:46.947Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:21:46.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:24:08.594Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:24:08.613Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:24:21.056Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T03:24:21.076Z"}

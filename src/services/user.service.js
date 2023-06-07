@@ -1,12 +1,10 @@
 import User from '../models/user.model';
 
 //get all users
-export const getAllUsers = async () => {
+export const getAllUsers = async (req) => {
   const data = await User.find();
-  return data;
+  return data
 };
-
-
 
 //create new user
 export const newUser = async (body) => {
