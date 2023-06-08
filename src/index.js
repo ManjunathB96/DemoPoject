@@ -12,7 +12,6 @@ import {
   notFound
 } from './middlewares/error.middleware';
 import logger, { logStream } from './config/logger';
-
 import morgan from 'morgan';
 
 const app = express();
@@ -23,10 +22,7 @@ const api_version = process.env.API_VERSION;
 app.use(cors());
 app.use(
   helmet({
-    xssFilter: {
-      setOnOldIE: true, // Enable for old versions of Internet Explorer
-      reportUri: '../logs/xssViolation/reportXssViolation.log' // Optional: Specify a reporting endpoint
-    }
+    xssFilter: true
   })
 );
 app.use(express.urlencoded({ extended: true }));
@@ -35,14 +31,11 @@ app.use(morgan('combined', { stream: logStream }));
 
 database();
 
-//Express rate limit
-//const ratelimit=require("express-rate-limit")
-
 import ratelimit from 'express-rate-limit';
 const requestIp = require('request-ip');
 const limiter = ratelimit({
   Window: 15 * 60 * 1000,
-  max: 2,
+  max: 12,
   message: 'Too many requests from this IP, please try again later.',
   standardHeaders: true,
   keyGenerator: (req) => {
@@ -51,20 +44,6 @@ const limiter = ratelimit({
 });
 app.use(requestIp.mw());
 app.use(limiter);
-
-const passport = require('passport');
-const session = require('express-session');
-app.set('view engine', 'ejs');
-// app.use(session({
-//     resave: true,
-//     saveUninitialized: true,
-//     secret: 'SECRET'
-//   })
-// );
-
-app.use(session({ secret: 'Tanu' }));
-app.use(passport.initialize());
-app.use(passport.session());
 
 const requestCounter = require('./middlewares/request.middleware');
 app.use(requestCounter());

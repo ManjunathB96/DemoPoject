@@ -4193,3 +4193,596 @@ info: ::1 - - [07/Jun/2023:03:20:25 +0000] "GET /api/v1/users/getAll HTTP/1.1" 2
 
 info: ::1 - - [07/Jun/2023:03:20:32 +0000] "GET /api/v1/users/getAll HTTP/1.1" 200 1997 "-" "PostmanRuntime/7.32.2"
 
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:22:30 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":204.625},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18845965,"external":20363807,"heapTotal":94896128,"heapUsed":58079648,"rss":131891200},"pid":9192,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:22:59 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":233.296},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18435987,"external":19953829,"heapTotal":94633984,"heapUsed":54468568,"rss":132780032},"pid":5088,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:23:02 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":236.656},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19092831,"external":20610673,"heapTotal":94633984,"heapUsed":57796640,"rss":133910528},"pid":5092,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:23:45 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":278.765},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19127194,"external":20645764,"heapTotal":95158272,"heapUsed":62092296,"rss":132505600},"pid":1652,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:24:13 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":307.609},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19109217,"external":20627059,"heapTotal":94371840,"heapUsed":62540952,"rss":132538368},"pid":8596,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+info: ::1 - - [07/Jun/2023:08:59:09 +0000] "POST /api/v1/weather HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:08:59:25 +0000] "POST /api/v1/weatherData HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:04:07 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 55 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:05:16 +0000] "GET /api/v1/weatherData HTTP/1.1" 429 55 "-" "axios/1.4.0"
+
+info: ::1 - - [07/Jun/2023:09:05:17 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 70 "-" "axios/1.4.0"
+
+info: ::1 - - [07/Jun/2023:09:05:17 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 70 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:06:12 +0000] "GET /api/v1/weatherData HTTP/1.1" 429 55 "-" "axios/1.4.0"
+
+info: ::1 - - [07/Jun/2023:09:06:12 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 70 "-" "axios/1.4.0"
+
+info: ::1 - - [07/Jun/2023:09:06:12 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 70 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:07:13 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:08:40 +0000] "POST /api/v1/weatherData HTTP/1.1" 500 54 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:12:40 +0000] "POST /api/v1/weatherData HTTP/1.1" 500 63 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:13:15 +0000] "POST /api/v1/weatherData HTTP/1.1" 500 63 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:17:52 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:17:52 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:18:48 +0000] "GET /api/v1/weatherData HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:23:26 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 81 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:23:56 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:25:45 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 57 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:26:13 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 57 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:26:49 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 57 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:27:16 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:29:11 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:29:19 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:09:31:41 +0000] "GET /api/v1/weatherData/create HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:32:00 +0000] "GET /api/v1/weatherData HTTP/1.1" 429 55 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:32:00 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 500 75 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:32:29 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:32:29 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:33:29 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:33:29 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:34:51 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:34:51 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:34:59 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:34:59 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:35:28 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:35:28 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 186 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:39:37 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:39:37 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 500 141 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:40:27 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 303 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:40:27 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:56:23 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 429 55 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:56:29 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 429 55 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:57:49 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:57:55 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 429 55 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 429 55 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:09:59:23 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 429 55 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/create HTTP/1.1" 500 142 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:02:02 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:03:24 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 81 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:05:09 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:05:09 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:05:09 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:06:30 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:06:30 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:06:30 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:06:33 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:06:33 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:06:33 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:09:30 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:10:41 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:12:00 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 522 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:13:00 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:13:00 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:13:00 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:13:41 +0000] "GET /api/v1/weatherData/create HTTP/1.1" 404 47 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:13:41 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 556 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:18:14 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:18:14 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:18:14 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:19:37 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:19:38 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:20:01 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:20:01 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:20:11 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:20:11 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+error: uncaughtException: res.json is not a function
+TypeError: res.json is not a function
+    at D:\MyDemoProject\src\services\/weather.service.js:80:16
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {"date":"Wed Jun 07 2023 15:50:11 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5464.968},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20251396,"external":22939161,"heapTotal":97230848,"heapUsed":66190496,"rss":161898496},"pid":13588,"uid":null,"version":"v18.16.0"},"stack":"TypeError: res.json is not a function\n    at D:\\MyDemoProject\\src\\services\\/weather.service.js:80:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","trace":[{"column":16,"file":"D:\\MyDemoProject\\src\\services\\/weather.service.js","function":null,"line":80,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":95,"method":null,"native":false}]}
+info: ::1 - - [07/Jun/2023:10:20:27 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:20:27 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:21:19 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:21:19 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:21:19 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 58 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:21:34 +0000] "GET /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:10:21:56 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:21:56 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:22:04 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:22:04 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:22:10 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:22:10 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:22:18 +0000] "GET /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:10:22:21 +0000] "GET /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:10:23:15 +0000] "GET /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:10:23:19 +0000] "GET /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Jun/2023:10:59:44 +0000] "POST /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:10:59:50 +0000] "PUT /api/v1/weatherData/create/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:10:59:50 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 201 556 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:03:33 +0000] "PUT /api/v1/weatherData/create/6480508b82f19f0efc292612 HTTP/1.1" 404 47 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:11:03:33 +0000] "PUT /api/v1/weatherData/6480508b82f19f0efc292612 HTTP/1.1" 500 55 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:37:04 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 75 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:38:11 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 24584 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:39:07 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:11:39:07 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:39:35 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:11:39:36 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:40:05 +0000] "GET /api/v1/weatherData HTTP/1.1" 500 75 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:11:40:05 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 200 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:42:20 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 88 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:44:27 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 297 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:45:15 +0000] "GET /api/v1/weatherData HTTP/1.1" 200 297 "-" "undici"
+
+info: ::1 - - [07/Jun/2023:11:45:15 +0000] "POST /api/v1/weatherData/create HTTP/1.1" 201 516 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [07/Jun/2023:11:46:28 +0000] "PUT /api/v1/weatherData/64806dcb8637041fb05fafad HTTP/1.1" 500 47 "-" "PostmanRuntime/7.32.2"
+
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:09:21 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28213.437},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19213238,"external":20741713,"heapTotal":98566144,"heapUsed":65112088,"rss":137814016},"pid":10736,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:5)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":5,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: sess is not defined
+ReferenceError: sess is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:26 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28278.578},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18376904,"external":19905379,"heapTotal":94896128,"heapUsed":51658616,"rss":135491584},"pid":12372,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: sess is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:1)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":1,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Cannot read properties of undefined (reading 'session')
+TypeError: Cannot read properties of undefined (reading 'session')
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:10)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:32 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28284.437},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19232485,"external":20760960,"heapTotal":88080384,"heapUsed":62175928,"rss":128151552},"pid":15856,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Cannot read properties of undefined (reading 'session')\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:10)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":10,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:37 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28289.765},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18376922,"external":19905397,"heapTotal":95158272,"heapUsed":51658656,"rss":134979584},"pid":10836,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:1)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":1,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:45 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28297.5},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19231875,"external":20760350,"heapTotal":88080384,"heapUsed":62385208,"rss":130740224},"pid":14136,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:5)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":5,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: The "id" argument must be of type string. Received an instance of Object
+TypeError: The "id" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:399:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1134:3)
+    at session (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:11:03 GMT+0530 (India Standard Time)","error":{"code":"ERR_INVALID_ARG_TYPE"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28316.187},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19278666,"external":20807141,"heapTotal":88342528,"heapUsed":62239192,"rss":129437696},"pid":4232,"uid":null,"version":"v18.16.0"},"stack":"TypeError: The \"id\" argument must be of type string. Received an instance of Object\n    at new NodeError (node:internal/errors:399:5)\n    at validateString (node:internal/validators:163:11)\n    at Module.require (node:internal/modules/cjs/loader:1134:3)\n    at session (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":5,"file":"node:internal/errors","function":"new NodeError","line":399,"method":null,"native":false},{"column":11,"file":"node:internal/validators","function":"validateString","line":163,"method":null,"native":false},{"column":3,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1134,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"session","line":110,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Cannot find module 'sess'
+Require stack:
+- D:\MyDemoProject\src\index.js
+Error: Cannot find module 'sess'
+Require stack:
+- D:\MyDemoProject\src\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:15)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:11:09 GMT+0530 (India Standard Time)","error":{"code":"MODULE_NOT_FOUND","requireStack":["D:\\MyDemoProject\\src\\index.js"]},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28321.703},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19279050,"external":20807525,"heapTotal":88080384,"heapUsed":62387528,"rss":128184320},"pid":6936,"uid":null,"version":"v18.16.0"},"stack":"Error: Cannot find module 'sess'\nRequire stack:\n- D:\\MyDemoProject\\src\\index.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Function.Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:15)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Module._resolveFilename","line":1075,"method":"_resolveFilename","native":false},{"column":27,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":920,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1141,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":110,"method":null,"native":false},{"column":15,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: keys is not defined
+ReferenceError: keys is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:58:10)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:13:13 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28445.984},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19306563,"external":20835038,"heapTotal":88080384,"heapUsed":62695056,"rss":130629632},"pid":16744,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: keys is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:58:10)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":10,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":58,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: .keys required.
+Error: .keys required.
+    at cookieSession (D:\MyDemoProject\node_modules\cookie-session\index.js:56:35)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:56:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:13:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28486.406},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18611131,"external":20139606,"heapTotal":95158272,"heapUsed":52246208,"rss":135483392},"pid":15508,"uid":null,"version":"v18.16.0"},"stack":"Error: .keys required.\n    at cookieSession (D:\\MyDemoProject\\node_modules\\cookie-session\\index.js:56:35)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:56:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":35,"file":"D:\\MyDemoProject\\node_modules\\cookie-session\\index.js","function":"cookieSession","line":56,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":56,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: .keys required.
+Error: .keys required.
+    at cookieSession (D:\MyDemoProject\node_modules\cookie-session\index.js:56:35)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:56:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:14:19 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28511.546},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18611131,"external":20139606,"heapTotal":95158272,"heapUsed":52426968,"rss":133996544},"pid":13100,"uid":null,"version":"v18.16.0"},"stack":"Error: .keys required.\n    at cookieSession (D:\\MyDemoProject\\node_modules\\cookie-session\\index.js:56:35)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:56:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":35,"file":"D:\\MyDemoProject\\node_modules\\cookie-session\\index.js","function":"cookieSession","line":56,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":56,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}

@@ -4304,3 +4304,1320 @@ error:
     method - GET 
     IP - ::1
    {"timestamp":"2023-06-07T02:47:39.927Z"}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:22:30 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":204.625},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18834833,"external":20352635,"heapTotal":94633984,"heapUsed":57711280,"rss":131825664},"pid":9192,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T08:52:30.955Z","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:22:59 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":233.281},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18424855,"external":19942657,"heapTotal":94633984,"heapUsed":54341224,"rss":132739072},"pid":5088,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T08:52:59.615Z","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:23:02 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":236.64},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19081701,"external":20599503,"heapTotal":94633984,"heapUsed":57664200,"rss":133160960},"pid":5092,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T08:53:02.980Z","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:23:45 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":278.75},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19116064,"external":20634594,"heapTotal":95158272,"heapUsed":61976000,"rss":132452352},"pid":1652,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T08:53:45.093Z","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\MyDemoProject\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\MyDemoProject\src\routes\/index.js:14:10)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:72:38)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 14:24:13 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":307.578},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19098085,"external":20615887,"heapTotal":94371840,"heapUsed":62424680,"rss":132493312},"pid":8596,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\MyDemoProject\\src\\routes\\/index.js:14:10)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:72:38)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T08:54:13.913Z","trace":[{"column":13,"file":"D:\\MyDemoProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\MyDemoProject\\src\\routes\\/index.js","function":"routes","line":14,"method":null,"native":false},{"column":38,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":72,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - ReferenceError: axios is not defined
+    at _callee$ (D:\MyDemoProject\src\services\/weather.service.js:9:27)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllData (D:\MyDemoProject\src\services\/weather.service.js:9:24)
+    at _callee$ (D:\MyDemoProject\src\controllers\/weather.controller.js:14:39)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllData (D:\MyDemoProject\src\controllers\/weather.controller.js:12:24)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:04:07.155Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 429
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:05:17.039Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 500
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:05:17.053Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 429
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:06:12.490Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 500
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:06:12.498Z"}
+error: 
+    status - 500 
+    message - ReferenceError: POST is not defined
+    at _callee2$ (D:\MyDemoProject\src\services\/weather.service.js:21:14)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.CreateweatherData (D:\MyDemoProject\src\services\/weather.service.js:18:31)
+    at _callee2$ (D:\MyDemoProject\src\controllers\/weather.controller.js:33:39)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at CreateweatherData (D:\MyDemoProject\src\controllers\/weather.controller.js:31:31)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:08:40.867Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:12:40.023Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:13:15.643Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:23:26.325Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:23:56.713Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:32:00.762Z"}
+error: 
+    status - 500 
+    message - ValidationError: Weather validation failed: wind: Cast to Number failed for value "4 km/h" (type string) at path "wind"
+    at model.Document.invalidate (D:\MyDemoProject\node_modules\mongoose\lib\document.js:2782:32)
+    at model.$set (D:\MyDemoProject\node_modules\mongoose\lib\document.js:1349:12)
+    at model.$set (D:\MyDemoProject\node_modules\mongoose\lib\document.js:1058:16)
+    at model.Document (D:\MyDemoProject\node_modules\mongoose\lib\document.js:148:12)
+    at model.Model (D:\MyDemoProject\node_modules\mongoose\lib\model.js:106:12)
+    at new model (D:\MyDemoProject\node_modules\mongoose\lib\model.js:4919:15)
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3165:22
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\MyDemoProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\MyDemoProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\MyDemoProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\MyDemoProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee2$ (D:\MyDemoProject\src\services\/weather.service.js:36:24)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:39:37.675Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.338Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.360Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.367Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.376Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.383Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.392Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.397Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.404Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.412Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.420Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.746Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.761Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.767Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.775Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.782Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.789Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.794Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.800Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.808Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.814Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.821Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.636Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.652Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.663Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.669Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.678Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.695Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.702Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.710Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.717Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.726Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.732Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.862Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.879Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.885Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.894Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.901Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.910Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.916Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.925Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.932Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.941Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.947Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:03:24.413Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:05:09.714Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:05:09.718Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:06:30.933Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:06:30.940Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:06:33.915Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:06:33.917Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:09:30.142Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:10:41.948Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:12:00.883Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:13:00.663Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:13:00.669Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:18:14.350Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:18:14.355Z"}
+error: uncaughtException: res.json is not a function
+TypeError: res.json is not a function
+    at D:\MyDemoProject\src\services\/weather.service.js:80:16
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {"date":"Wed Jun 07 2023 15:50:11 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5464.968},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20251372,"external":22939097,"heapTotal":97230848,"heapUsed":66119136,"rss":161689600},"pid":13588,"uid":null,"version":"v18.16.0"},"stack":"TypeError: res.json is not a function\n    at D:\\MyDemoProject\\src\\services\\/weather.service.js:80:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-06-07T10:20:11.305Z","trace":[{"column":16,"file":"D:\\MyDemoProject\\src\\services\\/weather.service.js","function":null,"line":80,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":95,"method":null,"native":false}]}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:21:19.068Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:21:19.075Z"}
+error: 
+    status - 500 
+    message - Error: Something went wrong
+    at _callee3$ (D:\MyDemoProject\src\services\/weather.service.js:57:11)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:03:33.737Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:37:04.823Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:39:07.071Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:39:35.979Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:40:05.833Z"}
+error: 
+    status - 500 
+    message - TypeError: fetch failed
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/64806dcb8637041fb05fafad 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:46:28.328Z"}
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:09:21 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28213.421},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19203482,"external":20731917,"heapTotal":98566144,"heapUsed":64950728,"rss":137789440},"pid":10736,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:5)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:39:21.148Z","trace":[{"column":5,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: sess is not defined
+ReferenceError: sess is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:26 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28278.578},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18367166,"external":19895601,"heapTotal":94896128,"heapUsed":51544408,"rss":134455296},"pid":12372,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: sess is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:1)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:40:26.299Z","trace":[{"column":1,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Cannot read properties of undefined (reading 'session')
+TypeError: Cannot read properties of undefined (reading 'session')
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:10)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:32 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28284.39},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19222547,"external":20750982,"heapTotal":88080384,"heapUsed":62002256,"rss":129466368},"pid":15856,"uid":null,"version":"v18.16.0"},"stack":"TypeError: Cannot read properties of undefined (reading 'session')\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:10)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:40:32.115Z","trace":[{"column":10,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:37 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28289.765},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18367166,"external":19895601,"heapTotal":95158272,"heapUsed":51540040,"rss":135249920},"pid":10836,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:1)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:40:37.488Z","trace":[{"column":1,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: session is not defined
+ReferenceError: session is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:10:45 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28297.484},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19222119,"external":20750554,"heapTotal":88080384,"heapUsed":62235320,"rss":129298432},"pid":14136,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: session is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:5)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:40:45.203Z","trace":[{"column":5,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: The "id" argument must be of type string. Received an instance of Object
+TypeError: The "id" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:399:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1134:3)
+    at session (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:55:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:11:03 GMT+0530 (India Standard Time)","error":{"code":"ERR_INVALID_ARG_TYPE"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28316.171},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19266704,"external":20795139,"heapTotal":88342528,"heapUsed":62056800,"rss":130240512},"pid":4232,"uid":null,"version":"v18.16.0"},"stack":"TypeError: The \"id\" argument must be of type string. Received an instance of Object\n    at new NodeError (node:internal/errors:399:5)\n    at validateString (node:internal/validators:163:11)\n    at Module.require (node:internal/modules/cjs/loader:1134:3)\n    at session (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:55:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:41:03.898Z","trace":[{"column":5,"file":"node:internal/errors","function":"new NodeError","line":399,"method":null,"native":false},{"column":11,"file":"node:internal/validators","function":"validateString","line":163,"method":null,"native":false},{"column":3,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1134,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"session","line":110,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":55,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: Cannot find module 'sess'
+Require stack:
+- D:\MyDemoProject\src\index.js
+Error: Cannot find module 'sess'
+Require stack:
+- D:\MyDemoProject\src\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:54:15)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:11:09 GMT+0530 (India Standard Time)","error":{"code":"MODULE_NOT_FOUND","requireStack":["D:\\MyDemoProject\\src\\index.js"]},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28321.687},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19266704,"external":20795139,"heapTotal":88080384,"heapUsed":62251832,"rss":127922176},"pid":6936,"uid":null,"version":"v18.16.0"},"stack":"Error: Cannot find module 'sess'\nRequire stack:\n- D:\\MyDemoProject\\src\\index.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Function.Module._load (node:internal/modules/cjs/loader:920:27)\n    at Module.require (node:internal/modules/cjs/loader:1141:19)\n    at require (node:internal/modules/cjs/helpers:110:18)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:54:15)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:41:09.406Z","trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Module._resolveFilename","line":1075,"method":"_resolveFilename","native":false},{"column":27,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":920,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1141,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":110,"method":null,"native":false},{"column":15,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":54,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: keys is not defined
+ReferenceError: keys is not defined
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:58:10)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:13:13 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28445.968},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19296819,"external":20825254,"heapTotal":88080384,"heapUsed":62474824,"rss":129662976},"pid":16744,"uid":null,"version":"v18.16.0"},"stack":"ReferenceError: keys is not defined\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:58:10)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:43:13.695Z","trace":[{"column":10,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":58,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: .keys required.
+Error: .keys required.
+    at cookieSession (D:\MyDemoProject\node_modules\cookie-session\index.js:56:35)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:56:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:13:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28486.406},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18600817,"external":20129252,"heapTotal":95158272,"heapUsed":52070592,"rss":135364608},"pid":15508,"uid":null,"version":"v18.16.0"},"stack":"Error: .keys required.\n    at cookieSession (D:\\MyDemoProject\\node_modules\\cookie-session\\index.js:56:35)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:56:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:43:54.124Z","trace":[{"column":35,"file":"D:\\MyDemoProject\\node_modules\\cookie-session\\index.js","function":"cookieSession","line":56,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":56,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: .keys required.
+Error: .keys required.
+    at cookieSession (D:\MyDemoProject\node_modules\cookie-session\index.js:56:35)
+    at Object.<anonymous> (D:\MyDemoProject\src\/index.js:56:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._compile (D:\MyDemoProject\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.newLoader [as .js] (D:\MyDemoProject\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MyDemoProject\node_modules\@babel\node\src\_babel-node.ts:222:12)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:14:19 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28511.531},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18600817,"external":20129252,"heapTotal":95158272,"heapUsed":52306800,"rss":134729728},"pid":13100,"uid":null,"version":"v18.16.0"},"stack":"Error: .keys required.\n    at cookieSession (D:\\MyDemoProject\\node_modules\\cookie-session\\index.js:56:35)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:56:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:44:19.253Z","trace":[{"column":35,"file":"D:\\MyDemoProject\\node_modules\\cookie-session\\index.js","function":"cookieSession","line":56,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":56,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}

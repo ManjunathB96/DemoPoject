@@ -407,3 +407,1604 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T0
 info: Connected to the database. {"timestamp":"2023-06-07T03:24:08.613Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T03:24:21.056Z"}
 info: Connected to the database. {"timestamp":"2023-06-07T03:24:21.076Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:52:31.007Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:52:59.671Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:53:03.033Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:53:45.149Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:54:14.008Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:55:50.818Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:55:50.837Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:55:54.625Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:55:54.642Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:56:17.697Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:56:17.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:56:27.442Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:56:27.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:16.096Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:16.117Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:29.313Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:29.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:31.811Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:31.836Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:36.103Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:36.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:41.987Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:42.006Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:57:57.179Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:57:57.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:58:11.880Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:58:11.899Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:58:15.992Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:58:16.011Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:58:22.460Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:58:22.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:58:26.636Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:58:26.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T08:58:31.544Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T08:58:31.562Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:01:23.061Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:01:23.084Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:01:26.875Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:01:26.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:01:29.656Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:01:29.683Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:01:39.289Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:01:39.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:02:21.738Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:02:21.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:02:30.190Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:02:30.210Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:02:44.321Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:02:44.339Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:02:50.970Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:02:50.992Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:02:59.456Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:02:59.475Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:06.700Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:06.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:21.174Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:21.193Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:25.080Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:25.098Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:29.890Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:29.914Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:43.022Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:43.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:49.426Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:49.445Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:03:54.684Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:03:54.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:04:02.590Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:04:02.610Z"}
+error: 
+    status - 500 
+    message - ReferenceError: axios is not defined
+    at _callee$ (D:\MyDemoProject\src\services\/weather.service.js:9:27)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllData (D:\MyDemoProject\src\services\/weather.service.js:9:24)
+    at _callee$ (D:\MyDemoProject\src\controllers\/weather.controller.js:14:39)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllData (D:\MyDemoProject\src\controllers\/weather.controller.js:12:24)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:04:07.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:05:13.823Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:05:13.841Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 429
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:05:17.039Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 500
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:05:17.053Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:06:01.211Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:06:01.231Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 429
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:06:12.490Z"}
+error: 
+    status - 500 
+    message - AxiosError: Request failed with status code 500
+    at settle (D:\MyDemoProject\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (D:\MyDemoProject\node_modules\axios\lib\adapters\http.js:570:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:06:12.498Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:07:05.856Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:07:05.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:07:33.785Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:07:33.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:07:36.458Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:07:36.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:07:41.066Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:07:41.089Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:07:50.073Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:07:50.090Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:08:14.145Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:08:14.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:08:17.289Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:08:17.306Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:08:23.819Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:08:23.849Z"}
+error: 
+    status - 500 
+    message - ReferenceError: POST is not defined
+    at _callee2$ (D:\MyDemoProject\src\services\/weather.service.js:21:14)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.CreateweatherData (D:\MyDemoProject\src\services\/weather.service.js:18:31)
+    at _callee2$ (D:\MyDemoProject\src\controllers\/weather.controller.js:33:39)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at CreateweatherData (D:\MyDemoProject\src\controllers\/weather.controller.js:31:31)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:08:40.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:12:06.444Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:12:06.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:12:09.001Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:12:09.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:12:12.408Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:12:12.427Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:12:18.292Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:12:18.323Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:12:24.692Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:12:24.710Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:12:40.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:13:09.548Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:13:09.565Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:13:15.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:14:49.943Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:14:49.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:14:57.786Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:14:57.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:21:02.394Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:21:02.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:21:08.936Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:21:08.973Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:21:15.286Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:21:15.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:22:00.255Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:22:00.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:22:03.255Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:22:03.308Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:22:27.273Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:22:27.294Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:22:38.004Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:22:38.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:22:45.417Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:22:45.440Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:23:26.325Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:23:56.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:25:34.253Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:25:34.271Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:26:04.467Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:26:04.484Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:26:30.881Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:26:30.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:26:35.261Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:26:35.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:26:44.887Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:26:44.906Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:27:02.189Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:27:02.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:28:32.578Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:28:32.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:28:36.484Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:28:36.504Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:28:47.713Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:28:47.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:28:57.760Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:28:57.805Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:29:05.289Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:29:05.309Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:29:37.716Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:29:37.738Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:29:53.541Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:29:53.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:29:56.350Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:29:56.380Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:30:30.021Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:30:30.045Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:30:47.226Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:30:47.264Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:30:56.230Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:30:56.249Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:31:10.078Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:31:10.097Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:31:20.613Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:31:20.633Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:31:23.244Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:31:23.270Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:32:00.762Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:32:25.674Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:32:25.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:33:10.477Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:33:10.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:33:21.728Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:33:21.752Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:34:20.834Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:34:20.854Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:34:36.728Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:34:36.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:34:42.118Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:34:42.144Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:34:47.962Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:34:47.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:35:16.340Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:35:16.360Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:36:15.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:36:15.201Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:36:39.873Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:36:39.892Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:36:49.637Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:36:49.678Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:00.273Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:00.294Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:06.808Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:06.825Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:11.927Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:11.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:15.667Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:15.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:19.111Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:19.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:22.898Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:22.919Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:31.329Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:31.351Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:34.756Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:34.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:39.078Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:39.095Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:41.903Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:41.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:37:49.174Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:37:49.192Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:38:25.243Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:38:25.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:38:29.802Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:38:29.827Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:38:34.198Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:38:34.224Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:38:39.622Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:38:39.639Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:39:00.636Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:39:00.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:39:04.618Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:39:04.642Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:39:08.092Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:39:08.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:39:16.138Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:39:16.156Z"}
+error: 
+    status - 500 
+    message - ValidationError: Weather validation failed: wind: Cast to Number failed for value "4 km/h" (type string) at path "wind"
+    at model.Document.invalidate (D:\MyDemoProject\node_modules\mongoose\lib\document.js:2782:32)
+    at model.$set (D:\MyDemoProject\node_modules\mongoose\lib\document.js:1349:12)
+    at model.$set (D:\MyDemoProject\node_modules\mongoose\lib\document.js:1058:16)
+    at model.Document (D:\MyDemoProject\node_modules\mongoose\lib\document.js:148:12)
+    at model.Model (D:\MyDemoProject\node_modules\mongoose\lib\model.js:106:12)
+    at new model (D:\MyDemoProject\node_modules\mongoose\lib\model.js:4919:15)
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3165:22
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\MyDemoProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\MyDemoProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\MyDemoProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\MyDemoProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\MyDemoProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee2$ (D:\MyDemoProject\src\services\/weather.service.js:36:24)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:39:37.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:40:15.452Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:40:15.481Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:42:25.506Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:42:25.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:42:29.414Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:42:29.443Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:48:14.137Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:48:14.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:48:17.070Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:48:17.087Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:48:19.840Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:48:19.875Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:48:25.386Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:48:25.403Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:48:59.448Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:48:59.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:49:13.489Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:49:13.507Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:49:26.752Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:49:26.772Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:49:35.331Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:49:35.348Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:49:43.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:49:43.178Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:50:03.610Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:50:03.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:50:07.884Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:50:07.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:50:23.952Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:50:23.971Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:50:38.736Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:50:38.753Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:50:47.053Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:50:47.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:16.583Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:16.600Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:19.851Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:19.868Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:28.749Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:28.766Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:40.592Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:40.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:54.107Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:54.124Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:51:59.464Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:51:59.481Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:04.833Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:04.853Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:08.572Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:08.589Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:11.813Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:11.831Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:16.970Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:16.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:22.092Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:22.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:33.540Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:33.556Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:52:36.350Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:52:36.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:53:19.041Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:53:19.065Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:53:21.768Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:53:21.785Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:53:38.340Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:53:38.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:53:46.462Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:53:46.479Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:53:53.852Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:53:53.868Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:54:10.677Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:54:10.697Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:54:28.790Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:54:28.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:54:32.536Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:54:32.555Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:54:47.979Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:54:47.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:54:56.841Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:54:56.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:55:00.552Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:55:00.569Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:55:11.129Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:55:11.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:55:51.299Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:55:51.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:55:58.556Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:55:58.574Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:56:01.676Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:56:01.695Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.338Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.360Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.367Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.376Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.383Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.392Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.397Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.404Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.412Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:56:29.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:57:40.346Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:57:40.375Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:57:43.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:57:43.182Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:57:47.128Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:57:47.145Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.746Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.761Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.767Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.775Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.782Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.789Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.794Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.800Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.808Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.814Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:57:49.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:58:35.294Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:58:35.339Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:59:09.237Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:59:09.263Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:59:20.129Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:59:20.149Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.636Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.652Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.663Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.669Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.678Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.695Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.702Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.710Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.717Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.726Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T09:59:23.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:59:49.344Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:59:49.364Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T09:59:59.645Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T09:59:59.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:06.916Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:06.933Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:27.593Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:27.615Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:36.669Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:36.686Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:44.551Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:44.575Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:49.262Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:49.281Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:00:59.628Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:00:59.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:08.360Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:08.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:11.800Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:11.822Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:17.179Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:17.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:23.722Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:23.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:41.367Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:41.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:01:50.973Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:01:51.001Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token T in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.862Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.879Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.885Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.894Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.901Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.910Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.916Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.925Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.932Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.941Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'create' }" (type Object) at path "_id" for model "Weather"
+    at model.Query.exec (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\MyDemoProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/create 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:02:02.947Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:02:55.973Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:02:55.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:03:12.398Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:03:12.415Z"}
+error: 
+    status - 500 
+    message - TypeError: Request with GET/HEAD method cannot have body.
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:03:24.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:04:45.516Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:04:45.534Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:04:51.098Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:04:51.119Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:04:57.298Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:04:57.330Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:05:01.808Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:05:01.829Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:05:09.714Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:05:09.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:05:39.819Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:05:39.895Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:05:48.177Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:05:48.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:06:19.518Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:06:19.535Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:06:30.933Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:06:30.940Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:06:33.915Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:06:33.917Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:08:28.193Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:08:28.215Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:08:40.832Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:08:40.851Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:09:03.386Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:09:03.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:09:08.604Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:09:08.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:09:14.992Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:09:15.013Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:09:30.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:10:19.861Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:10:19.877Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:10:34.108Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:10:34.125Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:10:41.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:11:18.004Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:11:18.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:11:44.166Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:11:44.185Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:11:47.235Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:11:47.257Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\MyDemoProject\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\MyDemoProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\MyDemoProject\node_modules\raw-body\index.js:231:16)
+    at done (D:\MyDemoProject\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\MyDemoProject\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/weatherData/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:12:00.883Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:12:43.204Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:12:43.221Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:12:51.410Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:12:51.429Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:13:00.663Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:13:00.669Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:13:17.076Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:13:17.096Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:13:20.623Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:13:20.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:13:35.064Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:13:35.082Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:15:27.606Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:15:27.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:15:36.666Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:15:36.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:15:39.915Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:15:39.932Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:15:46.113Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:15:46.130Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:15:52.533Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:15:52.555Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:16:14.303Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:16:14.371Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:16:24.242Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:16:24.265Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:16:33.281Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:16:33.300Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:16:46.650Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:16:46.670Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:17:18.135Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:17:18.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:17:23.130Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:17:23.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:17:26.895Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:17:26.912Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:18:14.350Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:18:14.355Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:19:36.319Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:19:36.355Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:19:45.508Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:19:45.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:19:48.673Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:19:48.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:19:59.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:19:59.218Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:20:09.153Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:20:09.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:20:25.735Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:20:25.802Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/weatherData/6480508b82f19f0efc292612 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-06-07T10:21:19.068Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse.writeHead (D:\MyDemoProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:912:9)
+    at ServerResponse.end (node:_http_outgoing:1019:5)
+    at ServerResponse.send (D:\MyDemoProject\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\MyDemoProject\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\MyDemoProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\MyDemoProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:326:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\MyDemoProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:478:21) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-07T10:21:19.075Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:21:51.116Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:21:51.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:21:54.478Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:21:54.531Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:22:02.121Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:22:02.157Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:22:08.712Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:22:08.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:23:36.375Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:23:36.397Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:54:40.715Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:54:40.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:54:49.609Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:54:49.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:54:52.655Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:54:52.672Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:55:18.512Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:55:18.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:55:22.924Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:55:22.946Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:55:39.902Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:55:39.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:55:44.112Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:55:44.129Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:55:56.003Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:55:56.025Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:56:05.814Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:56:05.831Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:56:10.576Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:56:10.592Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:56:16.124Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:56:16.143Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:56:35.030Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:56:35.050Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:57:14.080Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:57:14.100Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:57:16.640Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:57:16.661Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:57:19.496Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:57:19.513Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:57:37.162Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:57:37.187Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:58:53.391Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:58:53.412Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:58:56.197Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:58:56.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:59:29.781Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:59:29.799Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T10:59:39.884Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T10:59:39.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:00:56.930Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:00:56.947Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:11.431Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:11.448Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:22.781Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:22.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:29.567Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:29.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:35.130Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:35.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:44.217Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:44.234Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:46.877Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:46.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:01:57.126Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:01:57.146Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:02:16.106Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:02:16.123Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:02:26.823Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:02:26.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:02:44.521Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:02:44.543Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:03:11.490Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:03:11.525Z"}
+error: 
+    status - 500 
+    message - Error: Something went wrong
+    at _callee3$ (D:\MyDemoProject\src\services\/weather.service.js:57:11)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/6480508b82f19f0efc292612 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:03:33.737Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:03:50.029Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:03:50.057Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:04:00.515Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:04:00.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:12:15.792Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:12:15.809Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:12:19.448Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:12:19.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:35:15.025Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:35:15.044Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:37:04.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:38:05.642Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:38:05.663Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:38:44.808Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:38:44.827Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:39:07.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:39:23.923Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:39:23.941Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:39:35.979Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:39:48.331Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:39:48.351Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:39:56.991Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:39:57.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:40:00.261Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:40:00.284Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6571:19)
+    at successSteps (node:internal/deps/undici/undici:6545:27)
+    at node:internal/deps/undici/undici:1211:60
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:40:05.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-06-07T11:40:54.202Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:40:54.222Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T11:41:17.354Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:41:17.372Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T11:41:23.694Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:41:23.712Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T11:41:47.565Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:41:47.612Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T11:44:22.297Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:44:22.316Z"}
+error: 
+    status - 500 
+    message - TypeError: fetch failed
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/weatherData/64806dcb8637041fb05fafad 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-06-07T11:46:28.328Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T11:47:03.646Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T11:47:03.667Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:39:21.201Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:40:26.350Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:40:32.213Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:40:37.537Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:40:45.268Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:41:03.956Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:41:09.476Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:43:13.752Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:43:54.192Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:44:19.341Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:44:24.019Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:44:24.038Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:45:04.677Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:45:04.694Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:45:42.336Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:45:42.366Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:45:46.548Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:45:46.567Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:46:00.219Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:46:00.236Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:46:13.190Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:46:13.207Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-06-07T16:46:19.397Z"}
+info: Connected to the database. {"timestamp":"2023-06-07T16:46:19.414Z"}

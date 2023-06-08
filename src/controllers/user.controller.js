@@ -90,7 +90,6 @@ export const updateUser = async (req, res, next) => {
     next(error);
   }
 };
-
 /**
  * Controller to delete a user
  * @param  {object} req - request object
