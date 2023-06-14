@@ -15,16 +15,16 @@ export const getAllData = async () => {
   const result = response.data;
   return result;
 };
-
-// export const getAllData = async () => {
-//   const response = await fetch(
-//     'https://goweather.herokuapp.com/weather/France'
-//   );
-//   const data = await response.json();
-//   console.log(data);
-//   return data;
-// };
-
+/*
+export const getAllData = async () => {
+  const response = await fetch(
+    'https://goweather.herokuapp.com/weather/France'
+  );
+  const data = await response.json();
+  console.log(data);
+  return data;
+};
+*/
 //create new user
 export const CreateweatherData = async () => {
   const weatherData = await fetch('http://localhost:5000/api/v1/weatherData');

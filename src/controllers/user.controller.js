@@ -30,7 +30,7 @@ export const getAllUsers = async (req, res, next) => {
  */
 export const getUser = async (req, res, next) => {
   try {
-    const data = await UserService.getUser(req.params._id);
+    const data = await UserService.getUser(req.params._id,req.body.userId);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
@@ -47,23 +47,11 @@ export const getUser = async (req, res, next) => {
  * @param {object} res - response object
  * @param {Function} next
  */
-export const newUser = async (req, res, next) => {
-  try {
-    const data = await UserService.newUser(req.body);
-    res.status(HttpStatus.CREATED).json({
-      code: HttpStatus.CREATED,
-      data: data,
-      message: 'User created successfully'
-    });
-  } catch (error) {
-    next(error);
-  }
-};
 export const userRegistration = async (req, res, next) => {
   try {
-    const data = await UserService.userRegistration(userDetails);
+    const data = await UserService.userRegistration(req.body);
     res.status(HttpStatus.CREATED).json({
-      code: HttpStatus.CREATED,
+      code: HttpStatus.CREATED,  
       data: data,
       message: 'User created successfully'
     });
@@ -71,6 +59,32 @@ export const userRegistration = async (req, res, next) => {
     next(error);
   }
 };
+
+export const loginUser = async (req, res, next) => {
+  try {
+    const data = await UserService.loginUser(req.body);
+    res.status(HttpStatus.CREATED).json({
+      code: HttpStatus.CREATED,  
+      data: data,
+      message: 'Login successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+export const regenrateAccessToken = async (req, res, next) => {
+  try {
+    const data = await UserService.regenrateAccessToken(req.body);
+    res.status(HttpStatus.CREATED).json({
+      code: HttpStatus.CREATED,  
+      data: data,
+      message: 'Login successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
 
 /**
  * Controller to update a user

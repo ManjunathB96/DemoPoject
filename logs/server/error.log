@@ -5621,3 +5621,791 @@ Error: .keys required.
     at Function.Module._load (node:internal/modules/cjs/loader:958:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
     at node:internal/main/run_main_module:23:47 {"date":"Wed Jun 07 2023 22:14:19 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":28511.531},"process":{"argv":["node","D:\\MyDemoProject\\src\\index.js"],"cwd":"D:\\MyDemoProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18600817,"external":20129252,"heapTotal":95158272,"heapUsed":52306800,"rss":134729728},"pid":13100,"uid":null,"version":"v18.16.0"},"stack":"Error: .keys required.\n    at cookieSession (D:\\MyDemoProject\\node_modules\\cookie-session\\index.js:56:35)\n    at Object.<anonymous> (D:\\MyDemoProject\\src\\/index.js:56:9)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._compile (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Object.newLoader [as .js] (D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:958:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-06-07T16:44:19.253Z","trace":[{"column":35,"file":"D:\\MyDemoProject\\node_modules\\cookie-session\\index.js","function":"cookieSession","line":56,"method":null,"native":false},{"column":9,"file":"D:\\MyDemoProject\\src\\/index.js","function":null,"line":56,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":24,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":7,"file":"D:\\MyDemoProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MyDemoProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":222,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1254,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1308,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1117,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":958,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:75:45)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (D:\MyDemoProject\src\services\/user.service.js:72:23)
+    at _callee5$ (D:\MyDemoProject\src\controllers\/user.controller.js:76:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (D:\MyDemoProject\src\controllers\/user.controller.js:74:23)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:23:51.443Z"}
+error: 
+    status - 500 
+    message - TypeError: user.verifyPassword is not a function
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:76:24)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:24:25.808Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:81:53)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:29:08.828Z"}
+error: 
+    status - 500 
+    message - Error: "audience" must be a string or array
+    at D:\MyDemoProject\node_modules\jsonwebtoken\sign.js:50:15
+    at Array.forEach (<anonymous>)
+    at validate (D:\MyDemoProject\node_modules\jsonwebtoken\sign.js:41:6)
+    at validateOptions (D:\MyDemoProject\node_modules\jsonwebtoken\sign.js:56:10)
+    at Object.sign (D:\MyDemoProject\node_modules\jsonwebtoken\sign.js:165:5)
+    at createAccessToken (D:\MyDemoProject\src\utils\/jwthelper.js:13:29)
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:86:42)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:29:47.003Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:22:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/6481752b2d2f8938a43a80b1 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:39:02.663Z"}
+error: 
+    status - 500 
+    message - Error: bbelagavi111@gmail.comis  already been registered
+    at _callee6$ (D:\MyDemoProject\src\services\/user.service.js:65:11)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/details 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:50:47.170Z"}
+error: 
+    status - 500 
+    message - Error: Invalid credentials
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:82:13)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:51:18.704Z"}
+error: 
+    status - 500 
+    message - Error: Invalid credentials
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:85:13)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:52:43.690Z"}
+error: 
+    status - 500 
+    message - Error: Invalid credentials
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:85:13)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:54:44.306Z"}
+error: 
+    status - 500 
+    message - Error: Invalid email id
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:89:13)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T06:58:29.847Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/6481752b2d2f8938a43a80b1 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:01:25.188Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/64817d02ab47783d3c7fe5b7 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:05:10.271Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/648180bb8df00e3b94a01476 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:18:54.043Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/648180bb8df00e3b94a01476 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:19:21.139Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:171:19
+    at getSecret (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:101:10)
+    at _callee$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\MyDemoProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\MyDemoProject\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/648180bb8df00e3b94a01476 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:21:32.608Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:38:25)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at verifyRefreshToken (D:\MyDemoProject\src\middlewares\/auth.middleware.js:33:32)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:55:17.183Z"}
+error: 
+    status - 500 
+    message - TypeError: User.findById is not a function
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:47:29)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at verifyRefreshToken (D:\MyDemoProject\src\middlewares\/auth.middleware.js:31:32)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:57:41.865Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:84:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.regenrateAccessToken (D:\MyDemoProject\src\services\/user.service.js:77:34)
+    at _callee5$ (D:\MyDemoProject\src\controllers\/user.controller.js:77:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at regenrateAccessToken (D:\MyDemoProject\src\controllers\/user.controller.js:75:34)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:53:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T07:59:05.360Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:84:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.regenrateAccessToken (D:\MyDemoProject\src\services\/user.service.js:77:34)
+    at _callee5$ (D:\MyDemoProject\src\controllers\/user.controller.js:77:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at regenrateAccessToken (D:\MyDemoProject\src\controllers\/user.controller.js:75:34)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:55:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T08:00:01.217Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:84:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.regenrateAccessToken (D:\MyDemoProject\src\services\/user.service.js:77:34)
+    at _callee5$ (D:\MyDemoProject\src\controllers\/user.controller.js:77:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at regenrateAccessToken (D:\MyDemoProject\src\controllers\/user.controller.js:75:34)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:58:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T08:02:24.521Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T08:04:52.279Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at _callee7$ (D:\MyDemoProject\src\services\/user.service.js:84:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.regenrateAccessToken (D:\MyDemoProject\src\services\/user.service.js:77:34)
+    at _callee5$ (D:\MyDemoProject\src\controllers\/user.controller.js:77:36)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at regenrateAccessToken (D:\MyDemoProject\src\controllers\/user.controller.js:75:34)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:49:5)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T08:05:13.683Z"}
+error: 
+    status - 500 
+    message - ValidationError: "age" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T11:41:25.493Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\MyDemoProject\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee2$ (D:\MyDemoProject\src\middlewares\/auth.middleware.js:41:25)
+    at tryCatch (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\MyDemoProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at verifyRefreshToken (D:\MyDemoProject\src\middlewares\/auth.middleware.js:31:32)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MyDemoProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\MyDemoProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\MyDemoProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\src\middlewares\/request.middleware.js:22:5
+    at Layer.handle [as handle_request] (D:\MyDemoProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyDemoProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyDemoProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyDemoProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyDemoProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:244:7
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\MyDemoProject\node_modules\express-rate-limit\dist\index.cjs:152:5 
+    url - /api/v1/users/refreshToken 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-06-08T11:47:08.599Z"}

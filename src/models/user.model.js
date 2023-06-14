@@ -2,7 +2,7 @@ import { Schema, model } from 'mongoose';
 
 const userSchema = new Schema(
   {
-    name: {
+    fullName: {
       type: String
     },
     age: {
@@ -12,6 +12,9 @@ const userSchema = new Schema(
       type: String
     },
     password: {
+      type: String
+    },
+    refreshToken:{
       type: String
     }
   },

@@ -1,0 +1,4 @@
+info: ::1 - - [09/Jun/2023:03:29:20 +0000] "POST /api/v1/users/login HTTP/1.1" 201 669 "-" "PostmanRuntime/7.32.2"
+
+info: ::1 - - [09/Jun/2023:03:30:23 +0000] "GET /api/v1/users/6481835bc4b7aa163422b007 HTTP/1.1" 200 621 "-" "PostmanRuntime/7.32.2"
+
