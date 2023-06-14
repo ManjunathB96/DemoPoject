@@ -4,7 +4,6 @@ const router = express.Router();
 
 router.get('', weatherController.getAllData);
 
-
 router.post('/create', weatherController.CreateweatherData);
 
 router.put('/:_id', weatherController.updateWeatherData);

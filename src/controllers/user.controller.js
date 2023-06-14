@@ -1,6 +1,6 @@
 import HttpStatus from 'http-status-codes';
 import * as UserService from '../services/user.service';
-import { userDetails } from '..';
+
 
 
 /**
@@ -11,14 +11,17 @@ import { userDetails } from '..';
  */
 export const getAllUsers = async (req, res, next) => {
   try {
-    const data = await UserService.getAllUsers(req);
+    const data = await UserService.getAllUsers();
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
       message: 'All users fetched successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
 
@@ -37,7 +40,10 @@ export const getUser = async (req, res, next) => {
       message: 'User fetched successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
 
@@ -56,7 +62,10 @@ export const userRegistration = async (req, res, next) => {
       message: 'User created successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
 
@@ -69,19 +78,27 @@ export const loginUser = async (req, res, next) => {
       message: 'Login successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
-export const regenrateAccessToken = async (req, res, next) => {
+
+
+export const generateAccessToken = async (req, res, next) => {
   try {
-    const data = await UserService.regenrateAccessToken(req.body);
-    res.status(HttpStatus.CREATED).json({
-      code: HttpStatus.CREATED,  
+    const data = await UserService.generateAccessToken(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,  
       data: data,
-      message: 'Login successfully'
+      message: 'access token generated successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
 
@@ -119,6 +136,9 @@ export const deleteUser = async (req, res, next) => {
       message: 'User deleted successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
